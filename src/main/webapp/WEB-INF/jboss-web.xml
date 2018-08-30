@@ -1,0 +1,3 @@
+<jboss-web>
+    <context-root>fruit</context-root>
+</jboss-web>
